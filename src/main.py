@@ -1,13 +1,10 @@
 # library CLI app
 # default is isbn lookup (pip install isbnlib)
-# click for interface (pip install click)
 # manually add fields after
 # view library / add to library
 
-import click
-
-from main_menu import *
-from search import get_search_results
+#from main_menu import *
+from search import *
 
 def main():
     # welcome message
@@ -21,7 +18,7 @@ def main():
     #   add to library?
     # 4 wishlist?
     # 5 exit
-    display_main_menu()
+    display_library_menu()
     #isbn = get_isbn(standalone_mode=False)
     #get_search_results(str(isbn))
     
