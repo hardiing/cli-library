@@ -3,7 +3,7 @@
 # manually add fields after
 # view library / add to library
 
-#from main_menu import *
+from main_menu import *
 from search import *
 
 def main():

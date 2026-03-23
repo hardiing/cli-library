@@ -1,4 +1,5 @@
 [
-    "\"@book{9781538774229,\\n     title = {Brimstone - A novel},\\n    author = {Callie Hart},\\n      isbn = {9781538774229},\\n      year = {2025},\\n publisher = {Forever}\\n}\"",
-    "\"@book{9780765330420,\\n     title = {The Alloy of Law - a Mistborn novel},\\n    author = {Brandon Sanderson},\\n      isbn = {9780765330420},\\n      year = {2011},\\n publisher = {Tor Books}\\n}\""
+    {
+        "": "\"{\\\"type\\\": \\\"book\\\",\\n     \\\"title\\\": \\\"Edgedancer - From the Stormlight Archive\\\",\\n    \\\"author\\\": [{\\\"name\\\": \\\"Brandon Sanderson\\\"}],\\n      \\\"year\\\": \\\"2017\\\",\\n\\\"identifier\\\": [{\\\"type\\\": \\\"ISBN\\\", \\\"id\\\": \\\"9781250166548\\\"}],\\n \\\"publisher\\\": \\\"Tor\\\"}\""
+    }
 ]
