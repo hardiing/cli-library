@@ -13,7 +13,7 @@ The following must be installed in your environment:
 
 1. Clone this repository
 
-`git clone https://github.com/hardiing/cli-library
+`git clone https://github.com/hardiing/cli-library\n
 cd cli-library`
 
 2. Execute build.sh to start program
